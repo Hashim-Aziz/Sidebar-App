@@ -1,5 +1,5 @@
 function App() {
-  return <h2>Hello World</h2>;
+  return <h2>modal-sidebar project setup</h2>;
 }
 
 export default App;
